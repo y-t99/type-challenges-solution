@@ -1,0 +1,9 @@
+{
+  "name": "type-challenges-solution",
+  "version": "1.0.0",
+  "description": "The project type challenges' study note",
+  "main": "src/index.ts",
+  "repository": "https://github.com/y-t99/type-challenges-solution.git",
+  "author": "itou <13060889537@sina.cn>",
+  "license": "MIT"
+}
