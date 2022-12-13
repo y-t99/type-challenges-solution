@@ -5,7 +5,7 @@ The project [type challenges](https://github.com/type-challenges/type-challenges
 
 ☘️ ☘️ ☘️ 
 
-1. 00013 - [Type Aliases](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases)
+01. 00013 - [Type Aliases](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases)
 
 ☘️ ☘️ ☘️ 
 
@@ -25,3 +25,9 @@ Tuple Types](https://www.typescriptlang.org/docs/handbook/2/objects.html#readonl
 13. 03312
 
 ☘️ ☘️ ☘️ 
+
+01. 00002 - [ReturnType<Type>](https://www.typescriptlang.org/docs/handbook/utility-types.html#returntypetype)
+02. 00003 - [Omit<Type, Keys>](https://www.typescriptlang.org/docs/handbook/utility-types.html#omittype-keys)
+03. 00008
+04. 00009
+05. 00010
